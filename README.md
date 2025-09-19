@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himasai Reddy Bora</h1>
+<h1 align="center">Hii 👋, I'm Himasai Reddy Bora</h1>
 <h3 align="center">An enthusiastic learner, learning and experiencing new things related to the world of computers. A good team leader with good analysis and management skills . Always eager to improve my skills and utilize them efficiently for personal growth and organization’s growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himasai-1423&label=Profile%20views&color=0e75b6&style=flat" alt="himasai-1423" /> </p>
